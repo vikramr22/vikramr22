@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vikram Purohit
 - 👀 I’m interested in Machine Learning & Data analysis
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning Machine learning 
 - 💞️ I’m looking to collaborate on ML & Web Scraping related projects
 
 <!---
