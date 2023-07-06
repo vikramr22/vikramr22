@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML & Web Scraping related projects
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vikramr22.visitor-badge&left_text=MyPageVisitors)
+![](https://komarev.com/ghpvc/?username=vikramr22&color=green)
 
 <!---
 vikramr22/vikramr22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
