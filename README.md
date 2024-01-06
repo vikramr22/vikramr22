@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vikram R
 - 👀 I’m interested in Machine Learning & Data analysis
-- 🌱 I’m currently learning Fine tuning LLM's 
+- 🌱 I’m currently exploring Fine tuning LLM's 
 - 💞️ I’m looking to collaborate on ML & Web Scraping related projects
 
 
